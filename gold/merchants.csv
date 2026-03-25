@@ -1,0 +1,201 @@
+merchant_id,merchant_name,merchant_category,country,city,state,merchant_id_industry,created_at
+MERCH_000001,Norton and Sons,Automotive,US,Ramoshaven,New Mexico,MCC_6037,2026-03-10 09:14:46.281513
+MERCH_000002,Decker PLC,Gym,US,Kimberlyfurt,South Dakota,MCC_6994,2026-03-10 09:14:46.281647
+MERCH_000003,Campbell-Berg,Retail,US,Kimberlyville,Rhode Island,MCC_3451,2026-03-10 09:14:46.281797
+MERCH_000004,Ramsey-Robinson,Healthcare,US,North Cheryl,Virginia,MCC_6962,2026-03-10 09:14:46.281940
+MERCH_000005,Stokes-White,Pharmacy,US,East Andre,Vermont,MCC_8632,2026-03-10 09:14:46.282081
+MERCH_000006,Williams and Sons,Pharmacy,US,Amandaville,Maine,MCC_8675,2026-03-10 09:14:46.282179
+MERCH_000007,"Washington, Dixon and Hobbs",Subscription,US,North Thomasmouth,Georgia,MCC_6616,2026-03-10 09:14:46.282365
+MERCH_000008,Chapman-Wheeler,Entertainment,US,Barbarahaven,Connecticut,MCC_2186,2026-03-10 09:14:46.282503
+MERCH_000009,"Martin, Hale and Rodriguez",Coffee Shop,US,North Jeffreychester,Nevada,MCC_6158,2026-03-10 09:14:46.282686
+MERCH_000010,Smith-Watts,Healthcare,US,Lake Aaron,Alabama,MCC_5089,2026-03-10 09:14:46.282822
+MERCH_000011,Mayer-Adkins,Grocery,US,Jamesfurt,Illinois,MCC_3472,2026-03-10 09:14:46.282978
+MERCH_000012,Smith Ltd,Retail,US,West Lisaview,Kansas,MCC_8450,2026-03-10 09:14:46.283082
+MERCH_000013,"Nolan, Pierce and Smith",Airlines,US,Angelaburgh,Nebraska,MCC_9104,2026-03-10 09:14:46.283270
+MERCH_000014,"Jackson, Osborne and Saunders",Gym,US,North Shannonside,Vermont,MCC_9346,2026-03-10 09:14:46.283459
+MERCH_000015,Martin-Ellis,Airlines,US,Mahoneybury,Idaho,MCC_7792,2026-03-10 09:14:46.283613
+MERCH_000016,"Haney, Clark and Wiggins",Restaurant,US,Nunezborough,Indiana,MCC_9703,2026-03-10 09:14:46.283832
+MERCH_000017,Russell-Burgess,Hotel,US,Cynthiaside,Wisconsin,MCC_9378,2026-03-10 09:14:46.283972
+MERCH_000018,Thompson-Gibson,Utilities,US,South Andrea,Wyoming,MCC_2845,2026-03-10 09:14:46.284110
+MERCH_000019,Smith Inc,Pharmacy,US,East Elizabeth,Hawaii,MCC_2702,2026-03-10 09:14:46.284207
+MERCH_000020,Mccullough Ltd,Entertainment,US,North Emily,North Carolina,MCC_1654,2026-03-10 09:14:46.284304
+MERCH_000021,"Arellano, Bailey and Lopez",Automotive,US,New Thomastown,Montana,MCC_5271,2026-03-10 09:14:46.284489
+MERCH_000022,Snyder-Davis,Retail,US,South Karlastad,Pennsylvania,MCC_9955,2026-03-10 09:14:46.284632
+MERCH_000023,Smith PLC,Healthcare,US,Port Destinyview,Kansas,MCC_6319,2026-03-10 09:14:46.284735
+MERCH_000024,Howell Group,Entertainment,US,Huberville,New Jersey,MCC_7732,2026-03-10 09:14:46.284845
+MERCH_000025,"Neal, Gomez and Watkins",Restaurant,US,New Heather,Minnesota,MCC_2085,2026-03-10 09:14:46.285043
+MERCH_000026,"Jimenez, Navarro and Smith",Entertainment,US,Lake Peter,Mississippi,MCC_5376,2026-03-10 09:14:46.285224
+MERCH_000027,"Ashley, Ross and Cruz",Automotive,US,New Molly,Oregon,MCC_6177,2026-03-10 09:14:46.285405
+MERCH_000028,Taylor Group,Healthcare,US,West Christina,Pennsylvania,MCC_5572,2026-03-10 09:14:46.285502
+MERCH_000029,"Vance, Martin and Nguyen",Utilities,US,Emilytown,Wisconsin,MCC_9907,2026-03-10 09:14:46.285685
+MERCH_000030,Rojas-Tanner,Restaurant,US,South Josephfort,Georgia,MCC_7510,2026-03-10 09:14:46.285825
+MERCH_000031,"Jenkins, Garza and Shea",Utilities,US,Port Samuelfurt,New York,MCC_4915,2026-03-10 09:14:46.286008
+MERCH_000032,Hart PLC,Hotel,US,Parkerfort,Kentucky,MCC_1837,2026-03-10 09:14:46.286118
+MERCH_000033,"Bell, Williamson and Duncan",Automotive,US,Hillhaven,Illinois,MCC_3953,2026-03-10 09:14:46.286312
+MERCH_000034,"Pham, Boone and Rodriguez",Gas Station,US,Sanchezmouth,North Dakota,MCC_2432,2026-03-10 09:14:46.286507
+MERCH_000035,"Cooper, Ross and Perkins",Entertainment,US,South Kellyshire,Ohio,MCC_8655,2026-03-10 09:14:46.286694
+MERCH_000036,Baker LLC,Entertainment,US,Port Cassidyhaven,Montana,MCC_9431,2026-03-10 09:14:46.286793
+MERCH_000037,Murphy and Sons,Subscription,US,Port Pamton,Hawaii,MCC_9611,2026-03-10 09:14:46.286892
+MERCH_000038,Taylor-Ellis,Grocery,US,Rossside,Rhode Island,MCC_1303,2026-03-10 09:14:46.287058
+MERCH_000039,Smith PLC,Restaurant,US,West Amanda,Kentucky,MCC_7486,2026-03-10 09:14:46.287157
+MERCH_000040,Meyer-Carrillo,Subscription,US,New Natalieshire,Oklahoma,MCC_5102,2026-03-10 09:14:46.287300
+MERCH_000041,Golden Inc,Subscription,US,Timothyside,Oklahoma,MCC_2168,2026-03-10 09:14:46.287401
+MERCH_000042,Montgomery Ltd,Online Shopping,US,Greenville,Oklahoma,MCC_6243,2026-03-10 09:14:46.287516
+MERCH_000043,Perry-Glenn,Retail,US,East Saramouth,Mississippi,MCC_7524,2026-03-10 09:14:46.287663
+MERCH_000044,Williams and Sons,Automotive,US,Lake Michaelfurt,Wisconsin,MCC_1838,2026-03-10 09:14:46.287765
+MERCH_000045,"Powell, Vargas and Booth",Grocery,US,Deannatown,Minnesota,MCC_8466,2026-03-10 09:14:46.287953
+MERCH_000046,Carter-Grant,Utilities,US,Port Samuel,Ohio,MCC_2320,2026-03-10 09:14:46.288099
+MERCH_000047,"Kirk, Mooney and Reynolds",Grocery,US,New Kathleentown,Tennessee,MCC_2523,2026-03-10 09:14:46.288286
+MERCH_000048,Schmidt and Sons,Restaurant,US,Humphreyton,Alaska,MCC_7144,2026-03-10 09:14:46.288398
+MERCH_000049,Welch and Sons,Healthcare,US,Watsonville,Arkansas,MCC_4756,2026-03-10 09:14:46.288512
+MERCH_000050,Nelson LLC,Utilities,US,Stephanieview,Florida,MCC_1481,2026-03-10 09:14:46.288610
+MERCH_000051,"Larson, Williams and Webb",Gas Station,US,Stephanieside,Montana,MCC_1599,2026-03-10 09:14:46.288809
+MERCH_000052,Martin-Case,Subscription,US,Thomasberg,Delaware,MCC_8677,2026-03-10 09:14:46.288967
+MERCH_000053,Kent-Carr,Gym,US,Brennanberg,Massachusetts,MCC_2982,2026-03-10 09:14:46.289121
+MERCH_000054,Tate-Lopez,Restaurant,US,North Chelsea,Michigan,MCC_8830,2026-03-10 09:14:46.289263
+MERCH_000055,Lewis Ltd,Retail,US,Scotttown,Kentucky,MCC_1686,2026-03-10 09:14:46.289361
+MERCH_000056,Parker-Lester,Entertainment,US,Ambermouth,Mississippi,MCC_6529,2026-03-10 09:14:46.289501
+MERCH_000057,"Walker, Kim and Jackson",Grocery,US,New Jeffrey,Alabama,MCC_2759,2026-03-10 09:14:46.289687
+MERCH_000058,Rivas-Montes,Restaurant,US,Masonstad,Indiana,MCC_8023,2026-03-10 09:14:46.289829
+MERCH_000059,Martin PLC,Online Shopping,US,North Joycefurt,Florida,MCC_7208,2026-03-10 09:14:46.289932
+MERCH_000060,"Lopez, Davis and Melton",Airlines,US,Youngberg,South Dakota,MCC_8234,2026-03-10 09:14:46.290132
+MERCH_000061,Simpson-Coleman,Grocery,US,Amandaside,Washington,MCC_8476,2026-03-10 09:14:46.290281
+MERCH_000062,Williamson PLC,Subscription,US,Jennifermouth,Oklahoma,MCC_1114,2026-03-10 09:14:46.290627
+MERCH_000063,Jackson-Silva,Retail,US,Georgestad,Florida,MCC_1568,2026-03-10 09:14:46.290916
+MERCH_000064,"Villarreal, Garcia and Wilson",Retail,US,Tracyland,New Hampshire,MCC_8951,2026-03-10 09:14:46.291259
+MERCH_000065,Brown Inc,Gas Station,US,West Kyleland,Kentucky,MCC_5590,2026-03-10 09:14:46.291445
+MERCH_000066,Gibson-Adams,Pharmacy,US,Port Michael,Indiana,MCC_3988,2026-03-10 09:14:46.291667
+MERCH_000067,Barton-Evans,Utilities,US,Danielmouth,Delaware,MCC_4015,2026-03-10 09:14:46.291823
+MERCH_000068,Carpenter-Park,Retail,US,Gonzalezport,Rhode Island,MCC_7345,2026-03-10 09:14:46.292003
+MERCH_000069,Johnson and Sons,Entertainment,US,Dixontown,Iowa,MCC_8838,2026-03-10 09:14:46.292128
+MERCH_000070,Martinez and Sons,Automotive,US,Millerland,Vermont,MCC_2608,2026-03-10 09:14:46.292252
+MERCH_000071,Allen Ltd,Gas Station,US,South Sharon,North Carolina,MCC_7621,2026-03-10 09:14:46.292359
+MERCH_000072,Hunter-Preston,Utilities,US,West Laurafort,Ohio,MCC_8126,2026-03-10 09:14:46.292514
+MERCH_000073,Gonzalez-Mitchell,Subscription,US,Whiteland,Massachusetts,MCC_6565,2026-03-10 09:14:46.293151
+MERCH_000074,Martinez Ltd,Hotel,US,Rickyborough,Massachusetts,MCC_6650,2026-03-10 09:14:46.293444
+MERCH_000075,"Perez, Burnett and Mueller",Hotel,US,North Williamville,Minnesota,MCC_2881,2026-03-10 09:14:46.293931
+MERCH_000076,Jennings-Lopez,Online Shopping,US,Mollyfort,Colorado,MCC_4863,2026-03-10 09:14:46.294307
+MERCH_000077,"Mendoza, Newton and Mahoney",Pharmacy,US,Chapmanland,Maryland,MCC_4708,2026-03-10 09:14:46.294841
+MERCH_000078,Clark Group,Hotel,US,New Cassandra,Kentucky,MCC_2709,2026-03-10 09:14:46.295083
+MERCH_000079,Soto-Jordan,Airlines,US,Brianshire,Oregon,MCC_2692,2026-03-10 09:14:46.295435
+MERCH_000080,"Tyler, Norris and Rodriguez",Hotel,US,Timothyshire,Alaska,MCC_1125,2026-03-10 09:14:46.295969
+MERCH_000081,"Bullock, Wall and Sutton",Grocery,US,Frankland,Ohio,MCC_2199,2026-03-10 09:14:46.296338
+MERCH_000082,"Ortiz, Boyd and Conway",Pharmacy,US,Lake Kenneth,Louisiana,MCC_3711,2026-03-10 09:14:46.296693
+MERCH_000083,"Pace, Frank and Evans",Retail,US,Aguilarmouth,Hawaii,MCC_7228,2026-03-10 09:14:46.297050
+MERCH_000084,"Bartlett, Watson and Rowe",Automotive,US,Murphyshire,Minnesota,MCC_9182,2026-03-10 09:14:46.297463
+MERCH_000085,"Martinez, Holmes and Rodriguez",Gym,US,East Douglasmouth,West Virginia,MCC_6760,2026-03-10 09:14:46.297704
+MERCH_000086,"Ford, Ryan and Guerrero",Gym,US,Port Devinhaven,Ohio,MCC_3498,2026-03-10 09:14:46.297899
+MERCH_000087,Fowler Group,Retail,US,South Alexismouth,Wisconsin,MCC_7989,2026-03-10 09:14:46.298001
+MERCH_000088,"Rice, Moon and Baker",Entertainment,US,Lisaview,Indiana,MCC_6024,2026-03-10 09:14:46.298183
+MERCH_000089,Crawford-Russo,Hotel,US,Hendrixville,Colorado,MCC_2031,2026-03-10 09:14:46.298335
+MERCH_000090,Barber Ltd,Online Shopping,US,East Allisonmouth,Wisconsin,MCC_2742,2026-03-10 09:14:46.298433
+MERCH_000091,Sweeney-Wilson,Coffee Shop,US,New Johnfort,Ohio,MCC_6999,2026-03-10 09:14:46.298573
+MERCH_000092,Hill LLC,Hotel,US,Port Andrewshire,South Dakota,MCC_5090,2026-03-10 09:14:46.298675
+MERCH_000093,Whitaker Group,Restaurant,US,Raystad,Massachusetts,MCC_9160,2026-03-10 09:14:46.298785
+MERCH_000094,Castro Group,Hotel,US,Richardsbury,Mississippi,MCC_6129,2026-03-10 09:14:46.298893
+MERCH_000095,Burton Ltd,Hotel,US,Julieside,Wisconsin,MCC_7577,2026-03-10 09:14:46.298988
+MERCH_000096,Webster Group,Gas Station,US,Port Marymouth,Illinois,MCC_1163,2026-03-10 09:14:46.299100
+MERCH_000097,Nunez Inc,Gym,US,North Barbarashire,Colorado,MCC_4388,2026-03-10 09:14:46.299198
+MERCH_000098,Wright PLC,Hotel,US,Port Ashley,New Mexico,MCC_7161,2026-03-10 09:14:46.299293
+MERCH_000099,Taylor-Cline,Entertainment,US,Davidchester,Arizona,MCC_2877,2026-03-10 09:14:46.299431
+MERCH_000100,"Brown, Schmidt and Mckenzie",Subscription,US,Port Wayneville,Arizona,MCC_9103,2026-03-10 09:14:46.299617
+MERCH_000101,Murphy-Suarez,Utilities,US,Jasonmouth,Indiana,MCC_4264,2026-03-10 09:14:46.299754
+MERCH_000102,Jones-Cooper,Restaurant,US,Harrisfurt,Florida,MCC_2348,2026-03-10 09:14:46.299902
+MERCH_000103,Miller-Vaughn,Gas Station,US,Carrollborough,Minnesota,MCC_3251,2026-03-10 09:14:46.300053
+MERCH_000104,Lindsey Inc,Airlines,US,Lake Matthewmouth,Wisconsin,MCC_8290,2026-03-10 09:14:46.300150
+MERCH_000105,Davis-Chen,Online Shopping,US,Shannonbury,Colorado,MCC_9018,2026-03-10 09:14:46.300289
+MERCH_000106,"Cook, Cruz and Bennett",Gym,US,Carrollstad,Minnesota,MCC_8658,2026-03-10 09:14:46.300480
+MERCH_000107,Garcia LLC,Grocery,US,South Sue,South Carolina,MCC_6743,2026-03-10 09:14:46.300575
+MERCH_000108,Keller PLC,Hotel,US,South Todd,New Jersey,MCC_4817,2026-03-10 09:14:46.300671
+MERCH_000109,Wyatt PLC,Retail,US,Barajasfurt,Nebraska,MCC_2070,2026-03-10 09:14:46.300779
+MERCH_000110,Cooper and Sons,Healthcare,US,Gregoryland,Missouri,MCC_9306,2026-03-10 09:14:46.300875
+MERCH_000111,Scott-Montoya,Gym,US,Jonesville,South Carolina,MCC_1994,2026-03-10 09:14:46.301023
+MERCH_000112,"Murray, Rush and Walters",Gym,US,West Amanda,South Dakota,MCC_5731,2026-03-10 09:14:46.301218
+MERCH_000113,Ortiz-Baker,Airlines,US,Tabithaton,Illinois,MCC_8670,2026-03-10 09:14:46.301358
+MERCH_000114,"Castro, Smith and Henry",Coffee Shop,US,North Joseph,New York,MCC_9287,2026-03-10 09:14:46.301539
+MERCH_000115,Clark-Taylor,Subscription,US,West Cynthiaview,New Jersey,MCC_1631,2026-03-10 09:14:46.301678
+MERCH_000116,Rice PLC,Airlines,US,New Logan,Indiana,MCC_7045,2026-03-10 09:14:46.301778
+MERCH_000117,Johnston PLC,Online Shopping,US,South Tylerview,Vermont,MCC_1031,2026-03-10 09:14:46.301877
+MERCH_000118,"Dalton, Sims and Holt",Pharmacy,US,New Glennhaven,Ohio,MCC_7209,2026-03-10 09:14:46.302057
+MERCH_000119,Mays-Hicks,Restaurant,US,Monicastad,Delaware,MCC_5874,2026-03-10 09:14:46.302195
+MERCH_000120,"Young, Decker and Murphy",Subscription,US,Taylorfort,Delaware,MCC_9740,2026-03-10 09:14:46.302394
+MERCH_000121,Adams-Gonzalez,Healthcare,US,Shafferside,Delaware,MCC_7192,2026-03-10 09:14:46.302548
+MERCH_000122,Todd LLC,Restaurant,US,East Kevinborough,Pennsylvania,MCC_7406,2026-03-10 09:14:46.302649
+MERCH_000123,"Wolf, Santana and Hunter",Airlines,US,New Terry,Tennessee,MCC_9535,2026-03-10 09:14:46.302828
+MERCH_000124,"Howard, Hunt and Oconnor",Healthcare,US,South Justin,New Mexico,MCC_7154,2026-03-10 09:14:46.303009
+MERCH_000125,Smith-King,Healthcare,US,Lake Alan,Alabama,MCC_4285,2026-03-10 09:14:46.303167
+MERCH_000126,"Gentry, Mcmahon and Bailey",Utilities,US,Costaburgh,Ohio,MCC_3003,2026-03-10 09:14:46.303382
+MERCH_000127,Foster LLC,Entertainment,US,Kristinton,Kentucky,MCC_4672,2026-03-10 09:14:46.303492
+MERCH_000128,Rios and Sons,Pharmacy,US,North Cheryl,Washington,MCC_8458,2026-03-10 09:14:46.303603
+MERCH_000129,"Kelly, Murray and Smith",Automotive,US,Carlton,Virginia,MCC_4479,2026-03-10 09:14:46.303808
+MERCH_000130,"Simpson, Vargas and Padilla",Utilities,US,New Jasonview,Mississippi,MCC_1051,2026-03-10 09:14:46.304342
+MERCH_000131,Larsen Ltd,Entertainment,US,North Christineport,Connecticut,MCC_4651,2026-03-10 09:14:46.304560
+MERCH_000132,"Mclean, Thomas and Hill",Pharmacy,US,Johnsonside,New Mexico,MCC_3112,2026-03-10 09:14:46.304951
+MERCH_000133,Garner LLC,Coffee Shop,US,Harrisburgh,Mississippi,MCC_6765,2026-03-10 09:14:46.305165
+MERCH_000134,Braun LLC,Automotive,US,East Keith,Kentucky,MCC_2354,2026-03-10 09:14:46.305351
+MERCH_000135,"Brewer, Lewis and Barnes",Airlines,US,New Mariaton,Arizona,MCC_4754,2026-03-10 09:14:46.305702
+MERCH_000136,Torres PLC,Gas Station,US,Garciafurt,Indiana,MCC_7232,2026-03-10 09:14:46.305939
+MERCH_000137,Wells and Sons,Entertainment,US,Westburgh,Arkansas,MCC_7171,2026-03-10 09:14:46.306152
+MERCH_000138,Maxwell Inc,Coffee Shop,US,Kimberlybury,Montana,MCC_9527,2026-03-10 09:14:46.306335
+MERCH_000139,Griffith-Jones,Gym,US,Jamesside,Pennsylvania,MCC_9075,2026-03-10 09:14:46.306607
+MERCH_000140,Smith Group,Healthcare,US,Jacobstown,Arkansas,MCC_9691,2026-03-10 09:14:46.306807
+MERCH_000141,Simpson and Sons,Pharmacy,US,Stephanieshire,Alabama,MCC_9982,2026-03-10 09:14:46.306971
+MERCH_000142,Lindsey and Sons,Airlines,US,Daviston,Tennessee,MCC_8257,2026-03-10 09:14:46.307156
+MERCH_000143,Jackson-Davis,Airlines,US,New Lisa,Oregon,MCC_1149,2026-03-10 09:14:46.307400
+MERCH_000144,Paul Group,Restaurant,US,Lake Peterberg,Idaho,MCC_2624,2026-03-10 09:14:46.307576
+MERCH_000145,Johnson LLC,Coffee Shop,US,Mollyview,West Virginia,MCC_3574,2026-03-10 09:14:46.307745
+MERCH_000146,Sparks-Lutz,Pharmacy,US,New Garyland,New Mexico,MCC_8529,2026-03-10 09:14:46.308010
+MERCH_000147,Gibson LLC,Coffee Shop,US,South Brian,Georgia,MCC_8769,2026-03-10 09:14:46.308189
+MERCH_000148,Malone LLC,Airlines,US,East Michael,Colorado,MCC_3108,2026-03-10 09:14:46.308361
+MERCH_000149,"Sanders, Thomas and White",Automotive,US,Karinaberg,Washington,MCC_8899,2026-03-10 09:14:46.308674
+MERCH_000150,"Cross, Aguilar and Torres",Pharmacy,US,Salinasfort,Idaho,MCC_5914,2026-03-10 09:14:46.309009
+MERCH_000151,Jensen-Clark,Retail,US,South Darlene,Minnesota,MCC_7667,2026-03-10 09:14:46.309241
+MERCH_000152,Davis-Leblanc,Utilities,US,Ortizmouth,Rhode Island,MCC_4815,2026-03-10 09:14:46.309487
+MERCH_000153,Cortez-Johnson,Gas Station,US,West Stacy,Vermont,MCC_1422,2026-03-10 09:14:46.309707
+MERCH_000154,Silva-Bell,Automotive,US,Johnsonville,Connecticut,MCC_2229,2026-03-10 09:14:46.309921
+MERCH_000155,"Contreras, Flores and Conrad",Coffee Shop,US,East Lindaside,Montana,MCC_4176,2026-03-10 09:14:46.310143
+MERCH_000156,"Mitchell, Obrien and Herrera",Gas Station,US,Scottside,Nevada,MCC_1687,2026-03-10 09:14:46.310378
+MERCH_000157,"Craig, Martinez and Ford",Restaurant,US,North Vincentview,Maryland,MCC_1746,2026-03-10 09:14:46.310592
+MERCH_000158,Green-Dixon,Gas Station,US,South Lori,Oklahoma,MCC_3712,2026-03-10 09:14:46.310754
+MERCH_000159,Davila Inc,Hotel,US,South Kellyshire,Florida,MCC_9626,2026-03-10 09:14:46.310868
+MERCH_000160,Kim Inc,Pharmacy,US,South Ashleyhaven,Wyoming,MCC_1483,2026-03-10 09:14:46.310972
+MERCH_000161,Long Ltd,Gym,US,Port James,Massachusetts,MCC_2533,2026-03-10 09:14:46.311076
+MERCH_000162,Ramirez LLC,Online Shopping,US,Nelsonton,North Carolina,MCC_2020,2026-03-10 09:14:46.311193
+MERCH_000163,Wilson PLC,Retail,US,Floreschester,Idaho,MCC_7466,2026-03-10 09:14:46.311316
+MERCH_000164,Klein Inc,Online Shopping,US,North Whitney,Illinois,MCC_9887,2026-03-10 09:14:46.311427
+MERCH_000165,"Acosta, Parks and Newton",Entertainment,US,West Raventown,Indiana,MCC_4346,2026-03-10 09:14:46.311632
+MERCH_000166,Smith Inc,Coffee Shop,US,New Aprilbury,Maine,MCC_9078,2026-03-10 09:14:46.311744
+MERCH_000167,"Klein, Powell and Allen",Grocery,US,New Adamhaven,North Dakota,MCC_8877,2026-03-10 09:14:46.311963
+MERCH_000168,"Tate, Carroll and Davis",Subscription,US,Davidtown,Alaska,MCC_8830,2026-03-10 09:14:46.312164
+MERCH_000169,"Friedman, Jefferson and Cruz",Gym,US,Port Jimmy,Utah,MCC_3315,2026-03-10 09:14:46.312362
+MERCH_000170,Harris-Bryant,Airlines,US,Singhton,Missouri,MCC_1065,2026-03-10 09:14:46.312523
+MERCH_000171,Weaver Ltd,Airlines,US,Kevinland,Oklahoma,MCC_2928,2026-03-10 09:14:46.312626
+MERCH_000172,Castillo-Scott,Hotel,US,North Brent,Rhode Island,MCC_8533,2026-03-10 09:14:46.312773
+MERCH_000173,"Robertson, Sutton and Wright",Gas Station,US,North Jenniferbury,New Hampshire,MCC_6447,2026-03-10 09:14:46.312967
+MERCH_000174,Noble PLC,Gas Station,US,West Christopherside,Tennessee,MCC_1584,2026-03-10 09:14:46.313071
+MERCH_000175,Benson-Rivera,Entertainment,US,Port Ashley,Maryland,MCC_7685,2026-03-10 09:14:46.313218
+MERCH_000176,Kaufman and Sons,Pharmacy,US,Lindatown,California,MCC_9154,2026-03-10 09:14:46.313346
+MERCH_000177,Harris-Farmer,Airlines,US,Roberttown,New Hampshire,MCC_8670,2026-03-10 09:14:46.313502
+MERCH_000178,Brooks-Andrews,Pharmacy,US,Justinview,Montana,MCC_2892,2026-03-10 09:14:46.313657
+MERCH_000179,Alexander-Moran,Subscription,US,North Andreaview,Tennessee,MCC_4093,2026-03-10 09:14:46.313810
+MERCH_000180,"Smith, Taylor and Carrillo",Coffee Shop,US,Lake Williamberg,Tennessee,MCC_5024,2026-03-10 09:14:46.314001
+MERCH_000181,Palmer PLC,Restaurant,US,Tammyberg,Montana,MCC_7615,2026-03-10 09:14:46.314103
+MERCH_000182,Johnson LLC,Online Shopping,US,South Josemouth,Florida,MCC_7715,2026-03-10 09:14:46.314203
+MERCH_000183,Perez-Durham,Retail,US,South Larry,Iowa,MCC_6689,2026-03-10 09:14:46.314345
+MERCH_000184,Forbes-Smith,Restaurant,US,Christopherville,Wyoming,MCC_8329,2026-03-10 09:14:46.314484
+MERCH_000185,"Clements, Arnold and Rivera",Pharmacy,US,Lake Robertland,South Dakota,MCC_9497,2026-03-10 09:14:46.314668
+MERCH_000186,Hartman LLC,Gas Station,US,Anneport,Texas,MCC_9462,2026-03-10 09:14:46.314766
+MERCH_000187,Wilson-Johnson,Airlines,US,Guzmanbury,Arkansas,MCC_7843,2026-03-10 09:14:46.314918
+MERCH_000188,Simmons-Johnson,Airlines,US,East Annahaven,Georgia,MCC_8903,2026-03-10 09:14:46.315057
+MERCH_000189,Miller-Davis,Gas Station,US,East Tonya,Florida,MCC_8702,2026-03-10 09:14:46.315193
+MERCH_000190,"Moss, Schaefer and Simmons",Restaurant,US,Christophertown,Tennessee,MCC_6156,2026-03-10 09:14:46.315376
+MERCH_000191,Potts-Espinoza,Subscription,US,South Jillchester,Wisconsin,MCC_4168,2026-03-10 09:14:46.315515
+MERCH_000192,Walker-Briggs,Healthcare,US,Larryton,Maryland,MCC_3599,2026-03-10 09:14:46.315654
+MERCH_000193,"Thompson, Thomas and Gonzales",Airlines,US,Port Cynthia,Missouri,MCC_3235,2026-03-10 09:14:46.315844
+MERCH_000194,Rodriguez Inc,Retail,US,Joelstad,New York,MCC_6473,2026-03-10 09:14:46.315947
+MERCH_000195,"Paul, Garrett and Harris",Restaurant,US,Travisberg,Kentucky,MCC_1858,2026-03-10 09:14:46.316137
+MERCH_000196,Bailey Group,Healthcare,US,South Yvetteside,Hawaii,MCC_6380,2026-03-10 09:14:46.316239
+MERCH_000197,Bentley Inc,Healthcare,US,Port Stephen,Idaho,MCC_5505,2026-03-10 09:14:46.316339
+MERCH_000198,Chavez-Smith,Restaurant,US,Boonefurt,Minnesota,MCC_6789,2026-03-10 09:14:46.316492
+MERCH_000199,"Logan, Cisneros and Chase",Hotel,US,Tonyamouth,Nebraska,MCC_8471,2026-03-10 09:14:46.316670
+MERCH_000200,"Ramos, Chase and Adams",Entertainment,US,Thomasland,Texas,MCC_3452,2026-03-10 09:14:46.316849
